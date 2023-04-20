@@ -1,0 +1,13 @@
+.type {
+  padding: 10px 10px 10px 25px;
+  text-align: start;
+}
+.amount,
+.currency {
+  padding: 10px;
+}
+
+.amount {
+  border-right: 1px solid rgb(238, 238, 241);
+  border-left: 1px solid rgb(238, 238, 241);
+}
